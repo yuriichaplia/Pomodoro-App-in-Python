@@ -1,4 +1,4 @@
-# Pomodoro App
+# Pomodoro App<br>
 
 A simple Pomodoro timer built with Python and Tkinter.  
 It follows the 25/5 work-break cycle with a long break after 4 sessions.  
